@@ -646,24 +646,15 @@
         "filename": "BuckConverter.kicad_sch",
         "name": "BuckConverter",
         "uuid": "c1e05461-9a4d-4129-bb7b-494ddb3b428e"
-      },
-      {
-        "filename": "senza-titolo.kicad_sch",
-        "name": "Senza-titolo",
-        "uuid": "9e2184f3-aa39-4748-9257-de3eef326411"
       }
     ],
-    "used_designators": "J1,J3,#PWR7-24,R4-9,C3,U1-4",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
     [
       "c1e05461-9a4d-4129-bb7b-494ddb3b428e",
       "BuckConverter"
-    ],
-    [
-      "9e2184f3-aa39-4748-9257-de3eef326411",
-      "Senza-titolo"
     ]
   ],
   "text_variables": {},
