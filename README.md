@@ -15,17 +15,20 @@ The project is designed as a reusable development platform rather than a single 
 ## Current Status
 
 ### Control Board
-- [ ] Architecture definition
+- [x] Architecture definition
 - [ ] Schematic
 - [ ] PCB
+- [ ] Assembly
+- [ ] Hardware Validation
 - [ ] Firmware
 
 ### Power Board
 - [x] System specification
-- [ ] Schematic
+- [x] Schematic
 - [ ] PCB
 - [ ] Assembly
-- [ ] Validation
+- [ ] Hardware Validation
+- [ ] Control loop test
 
 ## First Prototype
 
