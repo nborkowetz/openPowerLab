@@ -1,4 +1,0 @@
-(fp_lib_table
-	(version 7)
-	(lib (name "kicadLibFp") (type "KiCad") (uri "/home/nborko/Documenti/kicad/kicadLibFp.pretty") (options "") (descr ""))
-)
