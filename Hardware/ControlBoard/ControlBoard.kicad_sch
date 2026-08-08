@@ -1,0 +1,116 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "54a0736a-7399-40cb-ad0a-3ac0ee04c994")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 205.74 62.23)
+		(size 43.18 53.34)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "16effece-b2a7-4131-ae9c-cc12010a801e")
+		(property "Sheetname" "power"
+			(at 205.74 61.5184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 205.74 116.1546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PWMA" output
+			(at 205.74 72.39 180)
+			(uuid "3ae2654a-12ec-4939-8d26-e84e28dfac73")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "ControlBoard"
+				(path "/54a0736a-7399-40cb-ad0a-3ac0ee04c994"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 78.74 57.15)
+		(size 44.45 67.31)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "81d801f7-86f4-4ba6-ae10-44f0ebe7e458")
+		(property "Sheetname" "MCU"
+			(at 78.74 56.4384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 78.74 125.0446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ControlBoard"
+				(path "/54a0736a-7399-40cb-ad0a-3ac0ee04c994"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
